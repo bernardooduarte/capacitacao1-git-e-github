@@ -1,1 +1,2 @@
 add - adiciona os arquivos do repositório no controle de versão
+status - verifica os status dos arquivos, se foram modificados ou adicionados
