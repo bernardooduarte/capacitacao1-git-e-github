@@ -1,3 +1,4 @@
 add - adiciona os arquivos do repositório no controle de versão
 status - verifica os status dos arquivos, se foram modificados ou adicionados
 commit - enviam as alterações do repositório local para o repositório do git, pode ser enviada junto com uma mensagem
+pull - enviam as atualizações do servidor para a máquina local
